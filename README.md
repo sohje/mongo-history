@@ -39,5 +39,5 @@ Returns array with uniq mongodb's commands.
 
 ## License
 
-MIT © [Nikolay Spiridonov]
+MIT © [Nikolay Spiridonov](https://github.com/sohje)
 
