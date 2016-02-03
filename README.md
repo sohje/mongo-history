@@ -14,7 +14,10 @@ $ npm install --save mongo-history
 const mongoHistory = require('mongo-history');
 
 console.log(mongoHistory());
-//=> ['db.fs.files.count()', 'db.serverStatus()', 'show dbs', ...]
+//=> ['show dbs', 'db.fs.files.count()', 'db.serverStatus()', 'show dbs', 'db.serverStatus()', ...]
+
+console.log(mongoHistory({uniq: true}));
+//=> [db.fs.files.count()', 'db.serverStatus()', 'show dbs', ...]
 ```
 
 
