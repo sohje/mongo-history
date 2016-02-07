@@ -1,5 +1,6 @@
 > Get the [mongodb's](https://www.mongodb.org/) command history
 
+[![npm version](https://badge.fury.io/js/mongo-history.svg)](https://badge.fury.io/js/mongo-history)
 
 ## Install
 
