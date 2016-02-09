@@ -1,7 +1,7 @@
 > Get the [mongodb's](https://www.mongodb.org/) command history
 
 [![npm version](https://badge.fury.io/js/mongo-history.svg)](https://badge.fury.io/js/mongo-history)
-
+[![Build Status](https://travis-ci.org/sohje/mongo-history.svg?branch=master)](https://travis-ci.org/sohje/mongo-history)
 ## Install
 
 ```
