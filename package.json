@@ -1,6 +1,6 @@
 {
   "name": "mongo-history",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Get the mongodb's command history",
   "license": "MIT",
   "repository": {
@@ -17,6 +17,12 @@
   "files": [
     "index.js"
   ],
+  "scripts": {
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "mocha": "*"
+  },
   "keywords": [
     "file",
     "files",
